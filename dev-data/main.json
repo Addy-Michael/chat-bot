@@ -1,0 +1,142 @@
+[
+    {
+        "number": 1,
+        "question":"Do you (they) have any of these life-threatening symptoms?",
+        "adult": ["Bluish lips or face","Severe and constant pain or pressure in the chest","Extreme difficulty breathing (such as gasping for air, being unable to talk without catchingyour (their) breath, severe wheezing, nostrils flaring)","New disorientation (acting confused","Unconscious or very difficult to wake up","Slurred speech or difficulty speaking (new or worsening)","New or worsening seizures","Signs of low blood pressure (too weak to stand, dizziness, lightheaded, feeling cold, pale,clammy skin)","Dehydration (dry lips and mouth, not urinating much, sunken eyes)"],
+        "child":["Bluish lips or face","Severe and constant pain or pressure in the chest","Extreme difficulty breathing (such as gasping for air, being unable to walk or talk without catching your (their) breath, severe wheezing, nostrils flaring, grunting, or using extra muscles around the chest to help breathe)","Disoriented (acting confused or very irritable)","Unconscious or very difficult to wake up","New or worsening seizures","Signs of low blood pressure (too weak to stand, dizziness, lightheaded, feeling cold, pale, clammy skin)","Dehydration (dry lips and mouth, not urinating much, sunken eyes)","Refusing to drink liquids","Frequent vomiting"],
+        "responses":["Yes","No"]
+    },
+    {
+        "number":3,
+        "question": " Are you (they) feeling sick?",
+        "responses":["Yes","No"]
+    },
+    {
+        "number":6,
+        "question": "In the two weeks before you (they) felt sick, have you (they) been in close contact with someone who has COVID-19? —excluding people who have had COVID-19 within the past 3 months.",
+        "subheading": "You (they) have been in close contact if you (they) have",
+        "subQuestion": ["been within 6 feet of someone who has COVID-19 for a combined total of 15 minutes or more over a 24-hour period or","provided care at home to someone who is sick with COVID-19 or","had direct physical contact (hugged or kissed) with someone who has COVID-19 or","shared eating or drinking utensils with someone who has COVID-19 or","been sneezed on or coughed on by someone who has COVID-19"],
+        "responses": ["Yes","No","I don’t know"]
+    },
+    {
+        "number":31,
+        "question": "In the last 10 days, have you (they) tested positive for coronavirus?",
+        "responses": ["Yes, tested positive","No, tested negative","No, waiting for results","No, not tested"]
+    },
+    {
+        "number":7,
+        "question": "Do you (they) have any of the following? (check any)",
+        "adult" : ["Fever or feeling feverish (such as chills, sweating)","Cough","Mild or moderate difficulty breathing","Sore throat","Muscle aches or body aches","Headache","Vomiting or diarrhea","New loss of taste or smell","Congestion or runny nose","Other symptoms"],
+        "child":["Fever or feeling feverish (such as chills, sweating)","Cough","Mild or moderate difficulty breathing (breathing slightly faster than normal, using extra muscles around the chest to help breathe)","Sore throat","Muscle aches or body aches","Headache","Vomiting or diarrhea","Stomach ache or pain in abdomen","New loss of taste or smell","Rash","Red eyes","Congestion or runny nose","Other symptoms"] 
+    },
+    {
+        "number":8,
+        "question": "Do you (they) live in a long-term care facility, nursing home, or homeless shelter?/Do you (they) live in a group home or other setting with others (pediatric skilled nursing facility,behavioral health center, juvenile detention center, or homeless shelter)?",
+        "responses": ["Yes","No"] 
+        
+    },
+    {
+        "number":9,
+        "question": "In the last two weeks, have you (they) worked or volunteered in a healthcare facility or as a first responder? Healthcare facilities include a hospital, medical or dental clinic, long-term care facility, or nursing home./In the last two weeks, have you (they) attended or spent time in a group setting (for example school,dormitory, child care, sporting event)? ",
+        "responses": ["Yes","No"] 
+        
+    },
+    {
+        "number":10,
+        "question": "Do any of these apply to you (them)? (check any)",
+        "adult": ["Chronic lung disease, such as moderate to severe asthma, COPD (chronic obstructive pulmonary disease), cystic fibrosis, or pulmonary fibrosis","Serious heart condition, such as heart failure cardiomyopathy, heart attack, or blocked arteries to the heart","Weakened immune system or taking medications that may cause immune suppression","Obesity","Diabetes, chronic kidney disease, or liver disease","High blood pressure","Cancer","HIV","Blood disorder, such as sickle cell disease or thalassemia","Cerebrovascular disease or neurologic condition, such as stroke or dementia","Smoking or vaping","Pregnancy","None of the above"],
+        "child":["Lung disease, such as moderate to severe asthma or cystic fibrosis","Born premature","Serious heart condition, such as congenital heart defect","Weakened immune system or taking medications that may cause immune suppression","Obesity","Diabetes, kidney disease, or liver disease","Cancer","HIV","Blood disorder, such as sickle cell disease or thalassemia","Neurologic condition, such as cerebral palsy","Smoking or vaping","Pregnancy","None of the above"]
+    },
+    {
+        "number":11,
+        "question": "Do you (they) live in a long-term care facility, nursing home, or homeless shelter?/ Do you (they) live in a group home or other setting with others (pediatric skilled nursing facility, behavioral health center juvenile detention center, or homeless shelter)?",
+        "responses": ["Yes","No"] 
+    },
+    {
+        "number":12,
+        "question": "In the last two weeks, have you (they) worked or volunteered in a healthcare facility or as a first responder? Healthcare facilities include a hospital, medical or dental clinic, long-term care facility, or nursing home./In the last two weeks, have you (they) attended or spent time in a group setting (for example school, dormitory, child care, sporting event, sporting event)?",
+        "responses": ["Yes","No"] 
+    },
+    {
+        "number":13,
+        "question": "Do any of these apply to you (them)?",
+        "adult":["Chronic lung disease, such as moderate to severe asthma, COPD (chronic obstructive pulmonary disease), cystic fibrosis, or pulmonary fibrosis","Serious heart condition, such as heart failure cardiomyopathy, heart attack, or blocked arteries to the heart","Weakened immune system or taking medications that may cause immune suppression","Obesity","Diabetes, chronic kidney disease, or liver disease","High blood pressure","Cancer","HIV","Blood disorder, such as sickle cell disease or thalassemia","Cerebrovascular disease or neurologic condition, such as stroke or dementia","Smoking or vaping","Pregnancy","None of the above"],
+        "child" : ["Lung disease such as moderate to severe asthma or cystic fibrosis","Born premature","Serious heart condition, such as congenital heart defect","Weakened immune system or taking medications that may cause immune suppression","Obesity","Diabetes, kidney disease, or liver disease","Cancer","HIV","Blood disorder, such as sickle cell disease or thalassemia","Neurologic condition, such as cerebral palsy","Smoking or vaping","Pregnancy","None of the above"]
+    },
+    {
+        "number":14,
+        "question": " Do you (they) have any of the following?",
+        "adult":["Fever or feeling feverish (such as chills, sweating)","Cough","Mild or moderate difficulty breathing","Sore throat","Muscle aches or body aches","Headache","Vomiting or diarrhea","New loss of taste or smell","Congestion or runny nose","Other symptoms"],
+         "child" : ["Fever or feeling feverish (such as chills, sweating)","Cough","Mild or moderate difficulty breathing (breathing slightly faster than normal, using extra","muscles around the chest to help breathe)","Sore throat","Muscle aches or body aches","Headache","Vomiting or diarrhea","Stomach ache or pain in abdomen","New loss of taste or smell","Rash","Red eyes","Congestion or runny nose","Other symptoms"]
+
+    },
+    {
+        "number":15,
+        "question": "Do you (they) live in a long-term care facility, nursing home or homeless shelter?/Do you (they) live in a group home or other setting with others (pediatric skilled nursing facility, behavioral health center, juvenile detention center, or homeless shelter)?",
+        "responses":["Yes","No"]
+    },
+    {
+        "number":16,
+        "question": "In the last two weeks, have you (they) worked or volunteered in any healthcare facility or as a first responder? Healthcare facilities include a hospital, medical or dental clinic, long-term care facility, or nursing home./In the last two weeks, have you (they) attended or spent time in a group setting (for example school,dormitory, child care, sporting event)?",
+        "responses":["Yes","No"]
+    },
+    {
+        "number":17,
+        "question": "Do any of these apply to you (them)? (check any)",
+        "adult":["Chronic lung disease, such as moderate to severe asthma, COPD (chronic obstructive pulmonary disease), cystic fibrosis, or pulmonary fibrosis","Serious heart condition, such as heart failure, cardiomyopathy, heart attack, or blocked arteries to the heart","Weakened immune system or taking medications that may cause immune suppression","Obesity","Diabetes, chronic kidney disease, or liver disease","High blood pressure","Cancer","HIV","Blood disorder, such as sickle cell disease or thalassemia","Cerebrovascular disease or neurologic condition, such as stroke or dementia","Smoking or vaping","Pregnancy","None of the above"],
+        "child" : ["Lung disease, such as moderate to severe asthma or cystic fibrosis","Born premature","Serious heart condition, such as congenital heart defect","Weakened immune system or taking medications that may cause immune suppression","Obesity","Diabetes, kidney disease, or liver disease","Cancer","HIV","Blood disorder, such as sickle cell disease or thalassemia","Neurologic condition, such as cerebral palsy","Smoking or vaping","Pregnancy","None of the above"]
+    },
+    {
+        "number":18,
+        "question": "Do you (they) live in a long-term care facility, nursing home or homeless shelter?/Do you (they)live in a group home or other setting with others (pediatric skilled nursing facility, behavioral health center, juvenile detention center, or homeless shelter)?",
+        "responses":["Yes","No"]
+    }, 
+    {
+        "number":19,
+        "question": "In the last two weeks, have you (they) worked or volunteered in a healthcare facility or as a first responder? Healthcare facilities include a hospital, medical or dental clinic, long-term care facility, or nursing home./In the last two weeks, have you (they) attended or spent time in a group setting (for example school, dormitory, child care, sporting event)?",
+        "responses":["Yes","No"]
+    },
+    {
+        "number":20,
+        "question": "Do any of these apply to you (them)? (check any)",
+        "adult":["Chronic lung disease, such as moderate to severe asthma, COPD (chronic obstructive pulmonary disease), cystic fibrosis, or pulmonary fibrosis","Serious heart condition, such as heart failure, cardiomyopathy, heart attack, or blocked arteries to the heart","Weakened immune system or taking medications that may cause immune suppression","Obesity","Diabetes, chronic kidney disease, or liver disease","High blood pressure","Cancer","HIV","Blood disorder, such as sickle cell disease or thalassemia","Cerebrovascular disease or neurologic condition, such as stroke or dementia","Smoking or vaping","Pregnancy","None of the above"],
+        "child" : ["Lung disease, such as moderate to severe asthma or cystic fibrosis","Born premature","Serious heart condition, such as congenital heart defect","Weakened immune system or taking medications that may cause immune suppression","Obesity","Diabetes, kidney disease, or liver disease","Cancer","HIV","Blood disorder, such as sickle cell disease or thalassemia","Neurologic condition, such as cerebral palsy","Smoking or vaping","Pregnancy","None of the above"]
+    },
+    {
+        "number":21,
+        "question": "Do you (they) live in a long-term care facility, nursing home, or homeless shelter",
+        "responses":["Yes","No"]
+    }, 
+    {
+        "number":22,
+        "question": "In the last two weeks, have you (they) worked or volunteered in any healthcare facility or as a first responder? Healthcare facilities include a hospital, other medical setting (including dental care setting),long-term care facility, or nursing home.",
+        "responses":["Yes","No"]
+    },
+    {
+        "number":23,
+        "question": "Do any of these apply to you (them)? (check any)",
+        "subQuestion": ["Chronic lung disease, such as moderate to severe asthma, COPD (chronic obstructive pulmonary disease), cystic fibrosis, or pulmonary fibrosis","Serious heart condition, such as heart failure, cardiomyopathy, heart attack, or blocked arteries to the heart","Weakened immune system or taking medications that may cause immune suppression","Obesity","Diabetes, chronic kidney disease, or liver disease","High blood pressure","Cancer","HIV","Blood disorder, such as sickle cell disease or thalassemia","Cerebrovascular disease or neurologic condition, such as stroke or dementia","Smoking or vaping","Pregnancy","None of the above"]
+    },
+    {
+        "number": 25,
+        "question":"In the two weeks before you (they) felt sick, have you (they) been in close contact with someone who has COVID-19? —excluding people who have had COVID-19 within the past 3 months",
+        "subheading": "You (they) have been in close contact if you (they) have",
+        "adult": ["Bluish lips or face","Severe and constant pain or pressure in the chest","Extreme difficulty breathing (such as gasping for air, being unable to talk without catchingyour (their) breath, severe wheezing, nostrils flaring)","New disorientation (acting confused","Unconscious or very difficult to wake up","Slurred speech or difficulty speaking (new or worsening)","New or worsening seizures","Signs of low blood pressure (too weak to stand, dizziness, lightheaded, feeling cold, pale,clammy skin)","Dehydration (dry lips and mouth, not urinating much, sunken eyes)"],
+        "responses":["Yes","No","I don't know"]
+    },
+    {
+        "number":26,
+        "question": " ADULT (Age 18 and Up) Do you (they) live in a long-term care facility, nursing home, or homeless shelter?/Do you (they) live in a group home or other setting with others (pediatric skilled nursing facility, behavioral health center, juvenile detention center, or homeless shelter)?",
+        "responses":["Yes","No"]
+    },
+    {
+        "number":27,
+        "question": " In the last two weeks, have you (they) worked or volunteered in any healthcare facility or as a first responder? Healthcare facilities include a hospital, medical or dental clinic, long-term care facility, or nursing home./In the last two weeks, have you (they) attended or spent time in a group setting (for example school, dormitory, child care, sporting event)?",
+        "responses":["Yes","No"]
+    },
+    {
+        "number":28,
+        "question": "Did you (they) wear personal protective equipment (gown, mask or respirator, goggles or face shield,and gloves) while working or volunteering at the healthcare facility? ",
+        "responses":["Yes","No"]
+    }
+]

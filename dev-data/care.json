@@ -1,0 +1,94 @@
+[
+    {
+        "number":1,
+        "heading":"Sounds like you (they) are feeling ok.",
+        "content":"You have not made a selection. Please start again and select options for each question so that I can help give you advice."
+    },
+    {
+        "number":4,
+        "heading":"Urgent medical attention may be needed. Please call 911 or go to the Emergency Department.",
+        "content":"Based on your (their) symptoms, you may need urgent medical care. Please call 911 or go to the nearest emergency department. Tell the 911 operator or emergency staff if you have had contact with someone with COVID-19."
+    },
+    {
+        "number":5,
+        "heading":"Call a medical provider.",
+        "content":"Sorry you (they) are not feeling well. Your (their) symptoms may be related to COVID-19. You (they) also have medical conditions that may put you (them) at risk of becoming more seriously ill."
+    },
+    {
+        "number":6,
+        "heading":"Contact the occupational health provider at your workplace immediately.",
+        "content":"Tell the occupational health provider (or supervisor) in your workplace that you’re feeling sick as soon as possible. "
+    },
+    {
+        "number":7,
+        "heading":"Contact a medical provider in the care center, nursing home, or homeless shelter where you (they) live.",
+        "content":"Tell a caregiver in your (their) facility that you (they) are sick and need to see a medical provider as soon as possible. Living in a long-term care facility or nursing home may put you (them) at a higher risk for severe illness."
+    },
+    {
+        "number":8,
+        "heading":"Stay home (keep them home) and take care of yourself (them). Call your (their) medical provider if you get worse.",
+        "content":"Sorry you are (or your child is) not feeling well. Your symptoms may be related to COVID-19."
+    },
+    {
+        "number":9,
+        "heading":"Stay home (keep them home) and take care of yourself (them). Call your (their) medical provider.",
+        "content":"Sorry you (they) are not feeling well. Your (their) symptom(s) may be related to COVID-19."
+    },
+    {
+        "number":10,
+        "heading":"Sorry you (they) are feeling sick. Stay home (keep them home) and monitor your (their) symptoms. Call your (their) medical provider if you (they) get worse.",
+        "content":"Watch for COVID-19 symptoms. If you (they) develop any of these symptoms or if you (they) start to feel worse, call your (their) medical provider, clinician advice line, or telemedicine provider."
+    },
+    {
+        "number":11,
+        "heading":"Please check with your Ministry of Health or local health department for additional information and guidelines about COVID-19 in your location."
+    },
+    {
+        "number":12,
+        "heading":"Please consent to use the Coronavirus Self-Checker. Refresh the page to start again."
+    },
+    {
+        "number":13,
+        "heading":"Thanks! Your location has its own self-assessment tool. Please click here** to be directed to it."
+    },
+    {
+        "number":14,
+        "heading":"If you start to feel sick, tell a medical provider in the care center, nursing home, or shelter where you live."
+    },
+    {
+        "number":15,
+        "heading":"Contact the occupational health provider at your workplace.",
+        "content": "Tell your occupational health provider (or supervisor) that you may have been in contact with someone with suspected COVID-19. You may be asked to wear a mask over your nose and mouth to protect yoursel and those around you."
+    },
+    {
+        "number":16,
+        "heading":"Monitor for symptoms.",
+        "content": "Watch for COVID-19 symptoms. If you (they) develop symptoms, call your (their) medical provider,clinician advice line, or telemedicine provider. Learn more about COVID-19 and steps you (they) can take to protect yourself (themselves) and others on the CDC website. "
+    },
+    {
+        "number":17,
+        "heading":"Monitor for symptoms, wear a mask.",
+        "content":"Watch for COVID-19 symptoms. If you (they) develop symptoms, call your (their) medical provider clinician advice line, or telemedicine provider. When around other people, you (they) will be asked to wear mask over your (their) nose and mouth to protect yourself (themselves) and those around you (them). Masks should be used for anyone who has trouble breathing, isunconscious, incapacitated, or otherwise unable to remove the mask on their own."
+    },
+    {
+        "number":18,
+        "heading":"Monitor for symptoms, stay at home."
+    },
+    {
+        "number":19,
+        "heading":"Contact a medical provider.",
+        "content": "This tool is intended for people 2 years or older. Please call the child’s medical provider clinician advice line, or telemedicine provider if your child is less than 2 years old and sick. "
+    },
+    {
+        "number":20,
+        "heading":"Please ask your parent or guardian to help you complete these questions."
+    },
+    {
+        "number":21,
+        "heading":"Please ask your parent or guardian to answer these questions with you."
+    },
+    {
+        "number":22,
+        "heading":"Ask a parent or guardian to assist you, or if taking by yourself, share these results with your parent/guardian."
+    }
+]

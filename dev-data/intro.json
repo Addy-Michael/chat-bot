@@ -1,0 +1,18 @@
+[
+    {
+        "number": 1,
+        "question": "Hi, I’m Clara. I’m going to ask you some questions. I will use your answers to give you advice abou the level of medical care you should seek. But first, if you are experiencing a life-threatening emergency, please call 911 immediately.If you are not experiencing a life-threatening emergency, let’s get started. During the assessment, you can refresh the page if you need to start again"
+    },
+    {
+        "number": 2,
+        "question": "Are you in Ghana right now?"
+    },
+    {
+        "number": 3,
+        "question": "Are you answering for yourself or someone else?"
+    },
+    {
+        "number": 4,
+        "question": "What is your (their) gender?"
+    }
+]
